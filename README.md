@@ -1,6 +1,8 @@
 # 🌦️ Weather Analytics Dashboard (Python + BigQuery + Power BI)
 
-This project tracks weather conditions across multiple cities, using a custom data pipeline from CSV to Google BigQuery, visualized through Power BI using Python and native visuals.
+This weather analytics project successfully demonstrates the power of integrating Python, Google BigQuery, and Power BI to build an end-to-end, dynamic, and interactive weather intelligence dashboard.
+
+By collecting and preprocessing weather data for multiple Nigerian cities.
 
 ## 🔧 Technologies Used
 - Python (for data cleaning, geocoding, and heatmap/boxplots)
